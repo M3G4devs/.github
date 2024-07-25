@@ -1,6 +1,6 @@
-# M3G4 Developments
+# MehmetGenc-devs
 
-**M3G4 Developments** olarak, yazılım geliştirme ve entegrasyon konularında çeşitli projeler yürüten bir topluluğuz. Organizasyonumuz, çeşitli dillerde ve platformlarda işlevsel modüller oluşturma, geliştirme ve mevcut projeleri optimize etme üzerine odaklanmaktadır.
+**MehmetGenc-devs** olarak, yazılım geliştirme ve entegrasyon konularında çeşitli projeler yürüten bir topluluğuz. Organizasyonumuz, çeşitli dillerde ve platformlarda işlevsel modüller oluşturma, geliştirme ve mevcut projeleri optimize etme üzerine odaklanmaktadır.
 
 ## İçerikler
 
