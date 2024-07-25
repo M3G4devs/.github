@@ -1,6 +1,6 @@
-# MehmetGenc-devs
+# mehmetgenc-devs
 
-**MehmetGenc-devs** olarak, yazılım geliştirme ve entegrasyon konularında çeşitli projeler yürüten bir topluluğuz. Organizasyonumuz, çeşitli dillerde ve platformlarda işlevsel modüller oluşturma, geliştirme ve mevcut projeleri optimize etme üzerine odaklanmaktadır.
+**mehmetgenc-devs** olarak, yazılım geliştirme ve entegrasyon konularında çeşitli projeler yürüten bir topluluğuz. Organizasyonumuz, çeşitli dillerde ve platformlarda işlevsel modüller oluşturma, geliştirme ve mevcut projeleri optimize etme üzerine odaklanmaktadır.
 
 ## İçerikler
 
